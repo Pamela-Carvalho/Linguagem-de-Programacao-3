@@ -1,0 +1,16 @@
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\Exercicio7.exe
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\Exercicio7.deps.json
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.json
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.dev.json
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\Exercicio7.dll
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\ref\Exercicio7.dll
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\bin\Debug\net5.0\Exercicio7.pdb
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfo.cs
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.dll
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\ref\Exercicio7.dll
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.pdb
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.genruntimeconfig.cache
+C:\Users\pvicc\OneDrive\Documentos\IF 3° ano\3 - LP3\Lista 1\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.AssemblyReference.cache
