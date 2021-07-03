@@ -1,0 +1,16 @@
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\Exercicio3.exe
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\Exercicio3.deps.json
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\Exercicio3.runtimeconfig.json
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\Exercicio3.runtimeconfig.dev.json
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\Exercicio3.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\ref\Exercicio3.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\bin\Debug\net5.0\Exercicio3.pdb
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.csproj.AssemblyReference.cache
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.AssemblyInfoInputs.cache
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.AssemblyInfo.cs
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.csproj.CoreCompileInputs.cache
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\ref\Exercicio3.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.pdb
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 3\Exercicio3\obj\Debug\net5.0\Exercicio3.genruntimeconfig.cache
