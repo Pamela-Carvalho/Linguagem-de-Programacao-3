@@ -1,0 +1,15 @@
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\Exercicio8.exe
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\Exercicio8.deps.json
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.json
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.dev.json
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\Exercicio8.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\ref\Exercicio8.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\bin\Debug\net5.0\Exercicio8.pdb
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfoInputs.cache
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfo.cs
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.CoreCompileInputs.cache
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\ref\Exercicio8.dll
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.pdb
+D:\PC Pâmela\IF 3° ano\3 - LP3\Lista 2\Exercicio8\obj\Debug\net5.0\Exercicio8.genruntimeconfig.cache
